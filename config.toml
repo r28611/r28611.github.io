@@ -1,4 +1,10 @@
 baseURL = 'http://r28611.github.io'
 languageCode = 'ru-ru'
 title = "Ветер в голове"
-theme = 'ananke'
+theme = 'Anatole'
+
+[params]
+title = "Ветер в голове"
+author = "Margo Novokh"
+description = "Вдохновляющая история про то, как после 6 лет в Сербии и работы кондитером начинаю работать программистом в Нидерландах."
+profilePicture = "images/profile.jpg"
