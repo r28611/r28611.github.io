@@ -1,7 +1,6 @@
 baseURL = 'http://r28611.github.io'
 languageCode = 'ru-ru'
 title = "Ветер в голове"
-theme = 'Anatole'
 
 [params]
 title = "Ветер в голове"
