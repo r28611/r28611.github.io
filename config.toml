@@ -8,3 +8,8 @@ title = "Ветер в голове"
 author = "Margo Novokh"
 description = "Вдохновляющая история про то, как после 6 лет в Сербии и работы кондитером начинаю работать программистом в Нидерландах."
 profilePicture = "images/profile.jpg"
+
+[module]
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
