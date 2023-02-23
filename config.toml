@@ -12,3 +12,53 @@ profilePicture = "images/profile.jpg"
   [[module.imports]]
     path = "github.com/lxndrblz/anatole"
     disable = false
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Margarita N"
+url = "https://www.linkedin.com/in/margonovokh/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "r28611"
+url = "https://github.com/r28611"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "swiftyballet"
+url = "https://www.instagram.com/swiftyballet/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "email"
+url = "mailto:margo.novokh@gmail.com"
+
+[[params.socialIcons]]
+icon = "fab fa-telegram"
+title = "Channel"
+url = "https://t.me/kogdaveter"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
