@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "2023-02-14"
 date: 2023-02-14
 draft: false
 categories: ["работа"]
