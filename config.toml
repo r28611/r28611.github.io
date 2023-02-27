@@ -46,19 +46,47 @@ url = "https://t.me/kogdaveter"
 [menu]
 
   [[menu.main]]
-  name = "Home"
+  name = "Главная"
   identifier = "home"
   weight = 100
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Темы"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/categories/работа/"
 
   [[menu.main]]
-  name = "About"
+  name = "Учеба"
+  weight = 500
+  identifier = "study"
+  url = "/categories/study/"
+  parent = "posts"
+
+  [[menu.main]]
+  name = "Работа"
+  weight = 500
+  identifier = "job"
+  url = "/categories/job/"
+  parent = "posts"
+
+  [[menu.main]]
+  name = "Поиск работы"
+  weight = 500
+  identifier = "job_search"
+  url = "/categories/job_search/"
+  parent = "posts"
+
+  [[menu.main]]
+  name = "Переезд"
+  weight = 500
+  identifier = "relocation"
+  url = "/categories/relocation/"
+  parent = "posts"
+
+  [[menu.main]]
+  name = "Обо мне"
   weight = 300
   identifier = "about"
   url = "/about/"
