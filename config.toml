@@ -75,7 +75,7 @@ url = "https://t.me/kogdaveter"
   name = "Поиск работы"
   weight = 500
   identifier = "job_search"
-  url = "/categories/job_search/"
+  url = "/categories/job-search/"
   parent = "posts"
 
   [[menu.main]]
@@ -83,6 +83,13 @@ url = "https://t.me/kogdaveter"
   weight = 500
   identifier = "relocation"
   url = "/categories/relocation/"
+  parent = "posts"
+
+  [[menu.main]]
+  name = "Мероприятия"
+  weight = 500
+  identifier = "events"
+  url = "/categories/events/"
   parent = "posts"
 
   [[menu.main]]

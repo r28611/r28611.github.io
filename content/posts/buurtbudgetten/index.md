@@ -2,6 +2,8 @@
 title: "Голосование по бюджету"
 date: 2021-10-27
 draft: false
+categories: ["events"]
+tags: ["Амстердам"]
 ---
 [Изучила](https://www.amsterdam.nl/gebiedspaginas/buurtbudgetten-nieuw-west/) сайт муниципалитета Амстердама в разделе **голосования по бюджету**.
 

@@ -2,6 +2,8 @@
 title: "Пишу мотивационное письмо"
 date: 2023-02-20
 draft: false
+categories: ["job search"]
+tags: ["motivation"]
 ---
 ![Image alt](images/1.png)
 Письмо, благодаря которому меня позвали на собеседование в 9292:
